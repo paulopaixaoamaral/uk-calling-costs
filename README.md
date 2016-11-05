@@ -14,3 +14,8 @@ Run:
 ```
     python main.py
 ```
+
+## Running Tests
+```
+    make test
+```
